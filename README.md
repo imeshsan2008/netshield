@@ -1,6 +1,6 @@
-# 🛡️ NetShield – Adobe Internet Access Manager
+# 🛡️ AdobeShield – Adobe Internet Access Manager
 
-**NetShield** is a lightweight desktop application that allows you to block or allow internet access for Adobe software like Photoshop, Illustrator, and InDesign using Windows Firewall rules. It's built with Python and `ttkbootstrap`, featuring a modern UI and real-time status display.
+**AdobeShield** is a lightweight desktop application that allows you to block or allow internet access for Adobe software like Photoshop, Illustrator, and InDesign using Windows Firewall rules. It's built with Python and `ttkbootstrap`, featuring a modern UI and real-time status display.
 
 ---
 
@@ -17,7 +17,7 @@
 
 ## 📷 Screenshot
 
-![NetShield Screenshot](https://github.com/imeshsan2008/netshield/blob/main/Ui.png?raw=true)
+![AdobeShield Screenshot](https://github.com/imeshsan2008/AdobeShield/blob/main/Ui.png?raw=true)
 
 <br>
 📸 Modern UI with real-time firewall status
