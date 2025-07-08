@@ -17,7 +17,7 @@
 
 ## 📷 Screenshot
 
-![NetShield Screenshot](https://your-screenshot-url-here.com)
+![NetShield Screenshot](https://github.com/imeshsan2008/netshield/blob/main/Ui.png?raw=true)
 <sub><sup>📸 Modern UI with real-time firewall status</sup></sub>
 
 ---
