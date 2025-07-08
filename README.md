@@ -36,5 +36,4 @@ Make sure Python is installed. Then open Command Prompt or PowerShell and run:
 
 ```bash
 pip install ttkbootstrap
----
 
