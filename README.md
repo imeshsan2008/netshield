@@ -31,11 +31,3 @@
 - **Permissions**: Must be run as Administrator (required to modify firewall rules)
 
 ---
-
-## 🧪 Install Dependencies
-
-Make sure Python is installed. Then open Command Prompt or PowerShell and run:
-
-```bash
-pip install ttkbootstrap
-
